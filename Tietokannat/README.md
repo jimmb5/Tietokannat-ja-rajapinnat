@@ -1,2 +1,0 @@
-# Tietokannat-ja-rajapinnat
-Tehtäviä
