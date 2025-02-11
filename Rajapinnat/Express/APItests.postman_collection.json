@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "509d80eb-5ca4-4692-b845-b1f51f5f4adb",
+		"name": "APItests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42111295"
+	},
+	"item": [
+		{
+			"name": "localhost:3000",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"esimerkki\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		}
+	]
+}
